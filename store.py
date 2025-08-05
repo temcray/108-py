@@ -1,7 +1,7 @@
 name = "Kelly"
 age = "18"
 place = "Store"
-print("She yell at" + name + ", who is " + age + "to go to" + place + ".")
+print("She yell at " + name + ", who is " + age + " to go to the " + place + ".")
 
 
 def get_subtract(x,y):
