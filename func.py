@@ -25,3 +25,8 @@ def my_full_name(fname, lname):
     
     full_name = get_full_name("Tatiana", "McCray")
     print(full_name)
+
+    def subtract(x,y):
+        return x-y
+    res = subtract(1,3)
+    print(res)
